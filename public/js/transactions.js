@@ -104,3 +104,4 @@ function verNegativo(){
                 alert("Seu saldo vai ficar negativo!");
             }
     })
+}
